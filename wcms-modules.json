@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "plugins": {
+        "wcms-bs5-local": {
+            "name": "WCMS BS5 Local",
+            "repo": "https://github.com/joho1968/wcms-bs5-local/tree/master",
+            "zip": "https://github.com/joho1968/wcms-bs5-local/archive/master.zip",
+            "summary": "Includes local copies of Bootstrap 5 CSS and JS",
+            "version": "1.0.0",
+            "image": "https://raw.githubusercontent.com/joho1968/wcms-bs5-local/master/preview.jpg"
+        }
+    }
+}
