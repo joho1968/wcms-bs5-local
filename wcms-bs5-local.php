@@ -4,6 +4,8 @@
  * WonderCMS Bootstrap 5 local inclusion plugin
  * Copyright (C) 2023 Joaquim Homrighausen; all rights reserved.
  * Please see README.md and LICENSE for details.
+ *
+ * We're currently at Bootstrap 5.3.1.
  */
 
 

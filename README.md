@@ -3,7 +3,7 @@
 (https://github.com/joho1968)
 
 This is a simple plugin for [WonderCMS 3.x.x](https://www.wondercms.com/) that
-includes Bootstrap 5 (5.3) as local assets from your site. The idea is that
+includes Bootstrap 5 (5.3.1) as local assets from your site. The idea is that
 other plugins and/or themes may then use BS5 without having to include it in
 their distribution.
 
